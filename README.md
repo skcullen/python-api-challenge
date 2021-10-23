@@ -14,9 +14,15 @@ The biggest road block that I ran into in this assignment was trying to clean th
 
 Includes:
 1. WeatherPy Folder
+
     a. the script named WeatherMain.py
+    
     b. the csv file (cities.csv) that hold the weather data for the list of cities
+    
     c. Images folder that holds all the png images of graphs
+    
 2. VacationPy Folder
+
     a. the script named VacationMain.py
+    
     b. Images folder that hold the screen shots of the maps
